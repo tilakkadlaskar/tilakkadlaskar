@@ -2,7 +2,7 @@
 
 ### A Passionate Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tilakkadlaskar&label=Profile views&color=0e75b6&style=flat" alt="tilakkadlaskar" /> </p>
+
 
 - 🔭 I'm currently working on **projects related to Artificial Intelligence, Machine Learning, and Deep Learning.**
 
